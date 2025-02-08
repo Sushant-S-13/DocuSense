@@ -22,3 +22,6 @@ DocuSense is an AI-powered tool designed to interact with PDF documents in an in
 
 ## User Interface
 ![Screenshot 2025-02-08 234501](https://github.com/user-attachments/assets/b76f77ec-74e4-4b2b-bbfa-d5a2096dff87)
+
+## Access the web application here
+https://docusense-sushant.streamlit.app/
